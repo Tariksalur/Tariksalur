@@ -1,4 +1,4 @@
-<img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-10.gif" width="1050" height="400" >
+<img src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-10.gif" width="1050" height="650" >
 
 <h2 align="center" dir="auto"><i>Frontend Developer </i></h2>
 
