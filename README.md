@@ -62,6 +62,9 @@ Hi, I'm Tarık. I'm interested in programming and I'm improving myself in this d
 <br></br>
 
 
+<img src = "https://github-readme-stats.vercel.app/api?username=Tariksalur&theme=radical&show_icons=true" width="850" >
+
+
 </div>
 
                                                                                          
