@@ -64,6 +64,9 @@ Hi, I'm Tarık. I'm interested in programming and I'm improving myself in this d
 <h2 align="center" dir="auto"><b> My Github Stats / Github İstatistiklerim: </b></h2>
 <img src = "https://github-readme-stats.vercel.app/api?username=Tariksalur&theme=radical&show_icons=true" width="850" >
 
+<h2 align="center" dir="auto"><b> Most Used Languages / En çok kullandığım diller: </b></h2>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tariksalur&layout=compact" width="850">
+
 
 </div>
 
