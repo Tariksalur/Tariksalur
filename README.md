@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/3oEdvbRHem1psqd7a0/giphy.gif?cid=ecf05e47w4bf85frjbpszcxmwkqnoip0eaqwe11nxqsoldxx&rid=giphy.gif&ct=g" width="850" height="400" >
+<img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="1050" height="400" >
 
 <h2 align="center" dir="auto"><i>Frontend Developer </i></h2>
 
