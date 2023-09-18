@@ -57,7 +57,7 @@ Hi, I'm Tarık. I'm interested in programming and I'm improving myself in this d
 <br></br>
 
 <h2 align="center" dir="auto"><b> Coming soon / Çok yakında </b></h2>
-
+<img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" title="Adobe Photoshop">
 
 <br></br>
 
