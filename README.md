@@ -52,12 +52,12 @@ Hi, I'm Tarık. I'm interested in programming and I'm improving myself in this d
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" title="HTML5">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" title="CSS3">
 <img align="left" dir="auto" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" title="JavaScript">
-
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/875/875209.png" width="50" title="React">
 
 <br></br>
 
 <h2 align="center" dir="auto"><b> Coming soon / Çok yakında </b></h2>
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/875/875209.png" width="50" title="React">
+
 
 <br></br>
 
